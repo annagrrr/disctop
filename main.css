@@ -1,0 +1,100 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #fff ;
+}
+.navbar {
+    background:#222;
+}
+
+.nav-link,
+.navbar-brand {
+    color: #fff;
+    cursor: pointer;
+}
+.nav-link {
+    margin-right: 1em !important;
+}
+.nav-link:hover {
+    color: #000;
+}
+
+.navbar-nav {
+    float:none;
+    margin:0 auto;
+    display: block;
+    text-align: center;
+}
+
+.navbar-nav > li {
+    display: inline-block;
+    float:none;
+}
+
+.description {
+	left: 50%;
+	position: sticky;
+    padding-top: 10% ;
+    padding-bottom: 1%;
+	text-align: center;
+}
+.intro  {
+    text-align: center;
+}
+
+.d-flex {
+    padding: 1%
+}
+
+
+.description h1 {
+	color: rgb(2, 2, 2);
+    size: 10px;
+}
+
+.basket {
+    left: 50%
+    top: 20%
+}
+.description p {
+	color: #fff;
+	font-size: 1.3rem;
+	line-height: 1.5;
+}
+.page-footer {
+    background-color: #222;
+    color: #ccc;
+    padding-top: 50px;
+    position: relative; 
+    min-height: 50%;
+    bottom: 0;
+    
+}
+.footer-copyright {
+    color: #666;
+    padding: 40px 0;
+}
+.features {
+	margin: 4em auto;
+	padding: 1em;
+	position: relative;
+}
+.feature-title {
+	color: #333;
+	font-size: 1.3rem;
+	font-weight: 700;
+	margin-bottom: 20px;
+	text-transform: uppercase;
+}
+.features img {
+	-webkit-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+	-moz-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+	box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+	margin-bottom: 16px;
+}
+.ANDMED {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 21%;
+
+}
